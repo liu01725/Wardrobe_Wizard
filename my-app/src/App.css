@@ -1,0 +1,29 @@
+.App {
+    font-size: large;
+    font-weight: bold;
+    padding: 20px;
+    height: 100%;
+    width: 100%;
+    transition: all .5s;
+  }
+
+.navbar {
+    width: 85vw;
+    left: 50%;
+    transform: translatex(-50%);
+}
+.navbar-brand {
+    font-weight: bold;
+    color: var(--text-primary) !important; 
+}
+
+.fill-window {
+    height: 100%;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    color: var(--text-primary);
+    background-color: var(--background);
+}
+
+
