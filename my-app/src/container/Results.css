@@ -1,0 +1,74 @@
+.outfit1_r {
+    position: absolute;
+    top: 150px;
+    left: 480px;
+    width: 400px;
+    height: 440px;
+  }
+  
+  .outfit2_r {
+    position: absolute;
+    top: 150px;
+    left: 1000px;
+    width: 400px;
+    height: 440px;
+    }
+  
+  .outfit3_r {
+    position: absolute;
+    top: 630px;
+    left: 480px;
+    width: 400px;
+    height: 440px;
+    }
+  
+  .outfit4_r {
+    position: absolute;
+    top: 630px;
+    left: 1000px;
+    width: 400px;
+    height: 440px;
+    }
+  
+  .liked1_r {
+    position: absolute;
+    top: 540px;
+    left: 825px;
+  }
+  
+  .liked2_r {
+    position: absolute;
+    top: 540px;
+    left: 1345px;
+  }
+  
+  .liked3_r {
+    position: absolute;
+    top: 1020px;
+    left: 825px;
+  }
+  
+  .liked4_r {
+    position: absolute;
+    top: 1020px;
+    left: 1345px;
+  }
+
+  .flex-container {
+    display: flex;
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+.flex-child {
+    flex: 1;
+}  
+
+.flex-child:first-child {
+    text-align: right;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-right: 10px;
+} 

@@ -1,0 +1,73 @@
+.outfit1_rec {
+    position: absolute;
+    top: 150px;
+    left: 600px;
+    width: 300px;
+    height: 340px;
+  }
+  
+  .outfit2_rec {
+    position: absolute;
+    top: 150px;
+    left: 1025px;
+    width: 300px;
+    height: 340px;
+    }
+  
+  .outfit3_rec {
+    position: absolute;
+    top: 530px;
+    left: 600px;
+    width: 300px;
+    height: 340px;
+    }
+  
+  .outfit4_rec {
+    position: absolute;
+    top: 530px;
+    left: 1025px;
+    width: 300px;
+    height: 340px;
+    }
+
+  .item_slide {
+    display: block;
+    max-width:300px;
+    max-height:200px;
+    min-width: 100px;
+    min-height: 100px;
+    width: auto;
+    height: auto;
+    margin: auto;
+  } 
+
+.users {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.popover {
+  max-width: 100%;
+  height: 340px;
+}
+
+.flex-container-rec {
+  display: flex;
+  width: 100%;
+  height: 80%;
+  margin: auto;
+  margin-top: 20px;
+
+}
+
+.flex-child-rec {
+  flex: 1;
+  margin-right: 5px;
+}
+
+.button {
+  float: right;
+  margin-right: 5px;
+}

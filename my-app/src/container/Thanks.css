@@ -1,0 +1,31 @@
+.thanks {
+    text-align: center;
+    padding-top: 15%;
+}
+
+.resubmit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: '100%';
+    height: 30%;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.container {
+    height: 200px;
+    position: relative;
+  }
+
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }

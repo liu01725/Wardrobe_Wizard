@@ -1,0 +1,37 @@
+.uploadhead {
+    text-align: center;
+    top: 20%;
+    left: 50%;
+}
+
+.center {
+    height:100%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  
+  }
+  .form-input {
+    float: right;
+    width:350px;
+    padding:2px;
+    margin-left: 50px;
+    margin-bottom: 5px;
+    background:#fff;
+  }
+
+  .inputflex {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+  }
+
+  .submitbutton {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-left: 47%;
+  }
+  

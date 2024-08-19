@@ -1,0 +1,47 @@
+
+.builder .heading {
+    padding: 0px 0;
+    text-align: center;
+}
+
+.builder .heading h2 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+  }
+
+
+.bld-wrap{
+    overflow: hidden;
+    flex-shrink: 0;
+    width: 10em;
+    padding: 50% 50% 50% 50%;
+    /*border: 10em;
+    border-color: blue;*/
+    /* padding controls height, will always be perfectly square regardless of width */
+    position: relative;
+    opacity: 1;
+}
+
+.bld-wrap img{
+    /*border-color: brown;*/
+    display: block;
+    /*min-width: 0%;
+    min-height: 0%;
+    max-width: 100%;*/
+    position: absolute;
+    height: auto;
+    width: auto;
+    top: 0;
+    right: auto;
+    left: 10%;
+    width: 75%;
+}
+
+.createbutton {
+    height: 40px;
+    text-align: center;
+    font-size: large;
+    margin-left: 20px;
+    margin-top: 55px;
+}
+  

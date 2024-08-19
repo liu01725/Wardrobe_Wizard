@@ -1,0 +1,90 @@
+.outfit1 {
+  position: absolute;
+  top: 150px;
+  left: 480px;
+  width: 400px;
+  height: 240px;
+}
+
+.outfit2 {
+  position: absolute;
+  top: 150px;
+  left: 1000px;
+  width: 400px;
+  height: 240px;
+  }
+
+.outfit3 {
+  position: absolute;
+  top: 430px;
+  left: 480px;
+  width: 400px;
+  height: 240px;
+  }
+
+.outfit4 {
+  position: absolute;
+  top: 430px;
+  left: 1000px;
+  width: 400px;
+  height: 240px;
+  }
+
+.outfit5 {
+  position: absolute;
+  top: 710px;
+  left: 480px;
+  width: 400px;
+  height: 240px;
+  }
+
+.outfit6 {
+  position: absolute;
+  top: 710px;
+  left: 1000px;
+  width: 400px;
+  height: 240px;
+  }
+
+.liked1 {
+  position: absolute;
+  top: 340px;
+  left: 825px;
+}
+
+.liked2 {
+  position: absolute;
+  top: 340px;
+  left: 1345px;
+}
+
+.liked3 {
+  position: absolute;
+  top: 620px;
+  left: 825px;
+}
+
+.liked4 {
+  position: absolute;
+  top: 620px;
+  left: 1345px;
+}
+
+.liked5 {
+  position: absolute;
+  top: 900px;
+  left: 825px;
+}
+
+.liked6 {
+  position: absolute;
+  top: 900px;
+  left: 1345px;
+}
+
+.home {
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
