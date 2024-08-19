@@ -1,3 +1,6 @@
+# Wardrobe_Wizard
+A social web application using JavaScript, HTML, CSS, and React to assist users in coordinating outfits from their existing wardrobe. A class project for understanding User Interface Design, Prototyping, and Evaluation
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
